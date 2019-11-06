@@ -1,0 +1,21 @@
+{
+  "name": "sinon_example",
+  "version": "1.0.0",
+  "description": "JavaScript mock example using sinon.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "unit",
+    "test",
+    "javascript",
+    "sinon.js"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^6.2.2",
+    "sinon": "^7.5.0"
+  }
+}
